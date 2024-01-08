@@ -234,6 +234,90 @@ header h1{
     position: absolute;
 }
 
+/* section-05 */
+.section-05-cointainer{
+    width: 1320px;
+    margin: auto;
+    margin-top: 200px;
+}
+.section-05-cointainer-div-01-text h4{
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.section-05-cointainer-div-01-text h1{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    margin-bottom: 0;
+}
+.section-05-cointainer-div-01-h1{
+    color: #F00;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+.section-05-cointainer-div-01-child{
+    text-align: center;
+}
+.section-05-cointainer-div-01-text p{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    margin-top: 28px;
+}
+.section-05-images{
+    width: 1320px;
+    margin: 100px auto 0;
+    display: block;
+    position: relative
+}
+.section-05-images>.img-01{
+    position: absolute;
+    left: 730px;
+    top: 75px;
+}
+.section-05-images>.img-02{
+    float: right;
+}
+.section-05-images-div-02{
+    position: relative;
+}
+.section-05-images-div-02 .img-03{
+    display: block;
+    margin: 0 auto;
+}
+.section-05-images-div-02 .img-04{
+    position: absolute;
+    z-index: 1;
+    width: 500px;
+    top: 200px;
+    left: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
