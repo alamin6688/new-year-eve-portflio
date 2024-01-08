@@ -1,0 +1,43 @@
+header{
+    border-radius: 16px;
+    /* background: linear-gradient(#070211 0%,rgba(2,7,17,0)); */
+    background: url('resources/Banner\ Image.png');
+    height: 600px;
+    width: 1300px;
+    margin: 50px auto 0; 
+}
+header h4{
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-family:'Merriweather', serif;
+    font-weight: 400;
+    padding: 177px 0 0 0 ;
+    margin-bottom:0 ;  
+}
+header h1{
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-family:'Merriweather', serif;
+    font-weight: 900;
+    margin: 0px auto 177px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
