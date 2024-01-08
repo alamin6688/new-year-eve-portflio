@@ -1,3 +1,5 @@
+/* header releted styles */
+
 header{
     border-radius: 16px;
     /* background: linear-gradient(#070211 0%,rgba(2,7,17,0)); */
@@ -24,9 +26,42 @@ header h1{
     margin: 0px auto 177px;
 }
 
+/* section releted styles */
 
-
-
+/* section-01 */
+.section-01-Coitainer{
+    display: block;
+    margin-top: 120px;
+}
+.section-01-image{
+    display: block;
+    width: 802px;
+    height: 500px;
+    margin: 0 auto; 
+}
+.section-01-text{
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+}
+.section-01-text h1{
+    color: #F00;
+    font-size: 88px;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+.section-01-text h4{
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+    padding-top: 40px;
+    margin-bottom: 0;
+}
+.section-01-text h2{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 10px;
+}
 
 
 
