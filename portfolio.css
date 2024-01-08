@@ -162,4 +162,82 @@ header h1{
     padding-top: 100px;
 }
 
+/* section-04 */
+.section-04-cointainer{
+    display: flex;
+    width: 1320px;
+    height: 400px;
+}
+.div-01{
+    width: 393px;
+}
+.div-01 h5{
+    color: #F00;
+    text-align: left;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+} 
+.div-01 h1{
+    color: #070211;
+    text-align: left;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    margin-top: 10px;
+}
+.div-01 p{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; 
+    margin-top: 22px;
+}
+.div-02{
+    border: 15px solid #F00;
+    padding: 49px;
+    border-radius:300px;
+}
+.div-02 img{
+    width: 364px;
+    height: 364px;
+}
+.div-03{
+    width: 276px;
+}
+.div-03 h2{
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.div-03 p{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    margin-top: 22px;
+}
+.div-03-img{
+    width: 140px;
+    height: 140px;
+    position: absolute;
+}
+
+
+
+
+
+
+
 
