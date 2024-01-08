@@ -385,6 +385,74 @@ header h1{
     margin: 15px;
 }
 
+/* footer section */
+.footer{
+    width: 1600px;
+    height: 609px;
+    background-color:#070211;
+}
+.footer-div-01{
+    display: flex;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+}
+.footer-div-p-01{
+    margin: 120px 0 0 140px;
+}
+.footer-div-p-02{
+    margin: 120px 140px 0 400px;
+}
+.footer-all-img{
+    display: flex;
+    justify-content: center;
+}
+.footer-img{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.hr{
+    width: 1320px;
+    height: 1px;
+    background: rgba(255, 255, 255, 0.15);
+}
+.footer-div-03{
+    color: #FFF;
+    display: flex;
+    justify-content: center;
+}
+.footer-div-03 .copyright{
+    color: #FFF;
+
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 60px;
+    margin-left: 140px;
+}
+.footer-div-03 .Unsubscribe{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top:60px;
+}
+
+
+
+
+
+
+
 
 
 
